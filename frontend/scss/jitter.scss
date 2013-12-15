@@ -1,0 +1,12 @@
+@import "normalize";
+@import "foundation";
+
+body {
+  padding-top: 1rem;
+}
+
+button {
+  &.workshop {
+    width: 100%;
+  }
+}
